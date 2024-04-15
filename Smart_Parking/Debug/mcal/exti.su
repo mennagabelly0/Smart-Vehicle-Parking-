@@ -1,0 +1,13 @@
+exti.c:26:6:Enable_NVIC	16	static
+exti.c:70:6:Disable_NVIC	16	static
+exti.c:132:6:MCAL_EXTI_Deinit	4	static
+exti.c:158:6:MCAL_EXTI_Init	16	static
+exti.c:168:6:update_EXTI	24	static
+exti.c:232:6:MCAL_EXTI_Update	16	static
+exti.c:246:6:EXTI0_IRQHandler	8	static
+exti.c:253:6:EXTI1_IRQHandler	8	static
+exti.c:259:6:EXTI2_IRQHandler	8	static
+exti.c:265:6:EXTI3_IRQHandler	8	static
+exti.c:272:6:EXTI4_IRQHandler	8	static
+exti.c:278:6:EXTI9_5_IRQHandler	8	static
+exti.c:287:6:EXTI15_10_IRQHandler	8	static
