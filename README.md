@@ -1,2 +1,3 @@
 # Smart-Vehicle-Parking-
-Smart Vehicle Parking Project
+"Smart vehicle parking project in ARM Cortex-M3 STM32F103C6"
+LinkedIn : https://www.linkedin.com/in/menna-gabely/
